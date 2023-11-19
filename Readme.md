@@ -5,5 +5,3 @@ Screenshots of Code to thread some nice projects. This project had an NDA.  Proj
 ![harbor_apollo](https://github.com/TheFenixfx/codeBrag/assets/5826165/ceb9be51-5305-4a5e-8ea0-bcbe14baa261)
 [![Watch the video](https://img.youtube.com/vi/N4xDMmpqt1U/hqdefault.jpg)](https://www.youtube.com/embed/N4xDMmpqt1U)
 
-[<img src="https://img.youtube.com/vi/N4xDMmpqt1U/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/N4xDMmpqt1U)
